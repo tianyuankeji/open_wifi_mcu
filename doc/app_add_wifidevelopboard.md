@@ -1,6 +1,6 @@
 # 开发板入网演示视频
 
-![开发板入网-演示视频](https://smart-img.5itianyuan.com/open/app_add_wifidevelopboard.mp4)
+[开发板入网-演示视频](https://smart-img.5itianyuan.com/open/app_add_wifidevelopboard.mp4)
 
 # 开发板入网指南
 

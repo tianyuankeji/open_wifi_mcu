@@ -3,7 +3,7 @@
 
 ## 演示视频
 
-![联动场景-演示视频](https://smart-img.5itianyuan.com/open/linkage_sence_dht12_alarm.mp4)
+[联动场景-演示视频](https://smart-img.5itianyuan.com/open/linkage_sence_dht12_alarm.mp4)
 
 ## 功能介绍
 

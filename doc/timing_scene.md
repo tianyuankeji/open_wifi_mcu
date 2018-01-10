@@ -3,7 +3,7 @@
 
 ## 演示视频
 
-![定时场景-演示视频](https://smart-img.5itianyuan.com/open/timing_scene.mp4)
+[定时场景-演示视频](https://smart-img.5itianyuan.com/open/timing_scene.mp4)
 
 ## 功能介绍
 

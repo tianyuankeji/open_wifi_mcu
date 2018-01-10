@@ -3,7 +3,7 @@
 
 ## 演示视频
 
-![一键场景-演示视频](https://smart-img.5itianyuan.com/open/one_key_scene.mp4)
+[一键场景-演示视频](https://smart-img.5itianyuan.com/open/one_key_scene.mp4)
 
 ## 功能介绍
 

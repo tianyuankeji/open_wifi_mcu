@@ -3,7 +3,7 @@
 
 ## 开发演示视频
 
-![模拟智能温湿度传感器-演示视频](https://smart-img.5itianyuan.com/open/smart_dht12_sensor_demo.mp4)
+[模拟智能温湿度传感器-演示视频](https://smart-img.5itianyuan.com/open/smart_dht12_sensor_demo.mp4)
 
 ## 功能说明
 

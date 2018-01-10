@@ -3,7 +3,7 @@
 
 ## 开发演示视频
 
-![模拟智能空气检测仪-演示视频](https://smart-img.5itianyuan.com/open/smart_air_quality_detector_demo.mp4)
+[模拟智能空气检测仪-演示视频](https://smart-img.5itianyuan.com/open/smart_air_quality_detector_demo.mp4)
 
 ## 功能说明
 

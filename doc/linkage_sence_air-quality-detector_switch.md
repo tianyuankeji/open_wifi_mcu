@@ -3,7 +3,7 @@
 
 ## 演示视频
 
-![联动场景-演示视频](https://smart-img.5itianyuan.com/open/linkage_sence_air-quality-detector_switch.mp4)
+[联动场景-演示视频](https://smart-img.5itianyuan.com/open/linkage_sence_air-quality-detector_switch.mp4)
 
 ## 功能介绍
 
