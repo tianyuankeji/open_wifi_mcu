@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1685478056</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\config\generic_cortex.icf</file>
+      <file>$PROJ_DIR$\Debug\Obj\delay.pbi</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_gpio.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_usart.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio_I2C.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ctype.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_stm32f10x_md.o</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\Demo_dht12_i2c.out</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtls.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocaleuse.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\..\..\examples\Demo6\delay.c</file>
+      <file>$PROJ_DIR$\..\..\examples\Demo6\dht12.c</file>
+      <file>$PROJ_DIR$\..\..\examples\Demo6\dht12.h</file>
+      <file>$PROJ_DIR$\..\..\examples\Demo6\delay.h</file>
+      <file>$PROJ_DIR$\..\..\examples\Demo6\gpio_I2C.c</file>
+      <file>$PROJ_DIR$\..\..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.c</file>
+      <file>$PROJ_DIR$\..\..\examples\Demo6\data_handle.h</file>
+      <file>$PROJ_DIR$\..\..\examples\Demo6\gpio_I2C.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\startup\iar\startup_stm32f10x_md.s</file>
+      <file>$PROJ_DIR$\..\..\examples\Demo6\gpio_key.c</file>
+      <file>$PROJ_DIR$\..\..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.c</file>
+      <file>$PROJ_DIR$\..\..\examples\Demo6\data_handle.c</file>
+      <file>$PROJ_DIR$\..\..\examples\Demo6\gpio_key.h</file>
+      <file>$PROJ_DIR$\..\..\src\user_timer.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\user_timer.o</file>
+      <file>$PROJ_DIR$\..\..\examples\Demo6\include.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_tim.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_gpio.o</file>
+      <file>$PROJ_DIR$\..\..\src\user_uart.c</file>
+      <file>$PROJ_DIR$\..\..\src\user_uart.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_tim.o</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h</file>
+      <file>$PROJ_DIR$\..\..\src\stm32f10x_it.c</file>
+      <file>$PROJ_DIR$\..\..\src\user_timer.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\core_cm3.pbi</file>
+      <file>$PROJ_DIR$\..\..\examples\Demo6\main.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f10x.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_usart.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_tim.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_gpio.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\data_handle.pbi</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\data_handle.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\misc.c</file>
+      <file>$PROJ_DIR$\..\..\src\stm32f10x_conf.h</file>
+      <file>$PROJ_DIR$\..\..\src\stm32f10x_it.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\Demo_dht12_i2c.bin</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\user_uart.o</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\user_timer.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_it.o</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_rcc.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f10x.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_it.pbi</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_usart.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\misc.pbi</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\user_uart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Demo_dht12_i2c.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\data_handle.o</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio_I2C.o</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\user_timer.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio_I2C.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\wchar.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\dht12.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\delay.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f10x.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\misc.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xmtx.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_it.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale_c.h</file>
+      <file>$PROJ_DIR$\Debug\List\Demo_dht12_i2c.map</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\dht12.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_rcc.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\core_cm3.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio_key.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\misc.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\user_uart.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_rcc.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_tim.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f10x_usart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio_key.o</file>
+      <file>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\include.h</file>
+      <file>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\data_handle.c</file>
+      <file>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\data_handle.h</file>
+      <file>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\gpio_key.h</file>
+      <file>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\delay.c</file>
+      <file>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\gpio_key.c</file>
+      <file>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\dht12.h</file>
+      <file>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\gpio_I2C.h</file>
+      <file>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\main.c</file>
+      <file>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\dht12.c</file>
+      <file>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\delay.h</file>
+      <file>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\gpio_I2C.c</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 27 121</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\Demo_dht12_i2c.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 75</file>
+        </tool>
+        <tool>
+          <name>ILINK</name>
+          <file> 121</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 0 125 102 113 111 105 132 13 127 22 52 82 84 55 92 85 49 77 109 106 122 69</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\examples\Demo6\delay.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 113</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 37 5 24 12 7 20 15 26 30 14 83 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\examples\Demo6\dht12.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 123</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 111</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 36 42 14 83 5 24 12 7 20 15 26 30 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99 23 37 54 41 17 80 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\examples\Demo6\gpio_I2C.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 105</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 108</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 42 14 83 5 24 12 7 20 15 26 30 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99 23 48 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 114</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 85</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 15 24 23 28 95 76 19 5 7 8 89 94 83 72 26 20 86 87 9 98 78 91 97 103 12 30 104 21 74 10 25 29 2 56 79 88 96 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14 83 5 24 12 7 20 15 26 30 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\startup\iar\startup_stm32f10x_md.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\examples\Demo6\gpio_key.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 126</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 132</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 47 14 83 5 24 12 7 20 15 26 30 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99 23 48 17 80 63 54 41 42</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 125</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 7 26 30 5 24 20 15</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5 24 12 7 20 15 26 30</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\examples\Demo6\data_handle.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 102</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 41 54 14 83 5 24 12 7 20 15 26 30 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99 23 42 17 80 63 50 112 33 117 18 6 31 118 32 120 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_tim.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 130</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 64</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 2 30 12 74 96 19 25 79 83 5 103 24 104 21 10 29 56 88 99 72 95 7 26 20 15 86 87 8 9 28 98 89 78 76 91 94 97 23</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 96 14 83 5 24 12 7 20 15 26 30 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 97 99 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\user_uart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 100</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 77</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 128</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 91 87 19 72 86 98 12 17 24 26 20 9 78 97 5 83 95 7 15 8 28 89 76 94 23 54 103 30 104 21 74 10 25 29 2 56 79 88 96 99 80 63</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 54 14 83 5 24 12 7 20 15 26 30 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99 23 135 17 80 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\stm32f10x_it.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 90</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 82</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 119</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 15 24 23 28 95 76 19 5 7 8 89 94 83 72 26 20 86 87 9 98 78 91 97 73 103 12 30 104 21 74 10 25 29 2 56 79 88 96 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 73 14 83 5 24 12 7 20 15 26 30 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\src\user_timer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 107</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 89 12 5 33 24 17 8 94 14 54 30 112 26 120 117 95 28 76 23 133 7 20 15 18 80 63 6 19 72 86 87 9 98 78 91 97 48 31 32 118 110 83 103 104 21 74 10 25 29 2 56 79 88 96 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 48 5 24 12 7 20 15 26 30 133 112 80 33 117 17 63 18 6 31 118 32 120 110 14 83 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99 23 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\examples\Demo6\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 115</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50 112 24 12 7 20 15 26 30 80 33 117 17 63 18 6 31 118 32 120 110 14 83 5 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99 23 54 48 41 36 42 37 47</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_usart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 131</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 92</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 72 86 98 14 5 87 91 83 24 26 20 9 78 97 79 19 95 7 15 8 28 89 76 94 23 103 12 30 104 21 74 10 25 29 2 56 88 96 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 97 14 83 5 24 12 7 20 15 26 30 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 99 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 129</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 84</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 124</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 104 14 10 99 103 12 24 56 19 21 29 88 83 5 30 74 25 2 79 96 72 95 7 26 20 15 86 87 8 9 28 98 89 78 76 91 94 97 23</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 79 14 83 5 24 12 7 20 15 26 30 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 91 88 94 96 97 99 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 3</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 79 25 19 30 12 74 2 96 83 5 103 24 104 21 10 29 56 88 99 72 95 7 26 20 15 86 87 8 9 28 98 89 78 76 91 94 97 23</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 14 83 5 24 12 7 20 15 26 30 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 78 56 76 79 91 88 94 96 97 99 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\misc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 127</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 116</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 88 104 29 14 19 103 12 24 10 56 99 83 5 30 74 25 2 79 96 23 72 95 7 26 20 15 86 87 8 9 28 98 89 78 76 91 94 97</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 23 14 83 5 24 12 7 20 15 26 30 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\data_handle.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 102</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 2 133 30 12 74 96 6 140 5 19 25 79 112 120 117 54 17 83 103 24 104 21 10 29 56 88 99 33 26 135 72 95 7 20 15 86 87 8 9 28 98 89 78 76 91 94 97 23 80 63 18 31 32 118 110</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 135 54 14 83 5 24 12 7 20 15 26 30 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99 23 140 17 80 63 133 112 33 117 18 6 31 118 32 120 110</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\delay.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 113</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95 14 24 23 15 28 5 7 76 26 20 83 8 89 94 12 30 19 72 86 87 9 98 78 91 97 143 103 104 21 74 10 25 29 2 56 79 88 96 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 143 5 24 12 7 20 15 26 30 14 83 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\gpio_key.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 126</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 132</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 136 14 83 5 24 12 7 20 15 26 30 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99 23 48 17 80 63 54 135 140</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 133 112 24 12 7 20 15 26 30 80 33 117 17 63 18 6 31 118 32 120 110 14 83 5 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99 23 54 48 135 139 140 143 136</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\dht12.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 123</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 111</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 139 140 14 83 5 24 12 7 20 15 26 30 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99 23 143 54 135 17 80 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\examples\smart_dht12_sensor_demo\gpio_I2C.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 105</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 140 14 83 5 24 12 7 20 15 26 30 103 104 86 95 19 72 87 21 8 74 9 10 28 25 98 29 89 2 78 56 76 79 91 88 94 96 97 99 23 48 143</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\examples\Demo6\delay.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\examples\Demo6\dht12.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\examples\Demo6\gpio_I2C.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\examples\Demo6\gpio_key.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\examples\Demo6\data_handle.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\examples\Demo6\main.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
