@@ -16,7 +16,7 @@
 
 > 基于甜园智能平台的ESP8266的开源WiFi-MCU方案，目的是为智能家居产品制造企业提供一个**全开放-高效率-低成本**的智能化方案
 
-> 开源WiFi-MCU方案通信协议 - [甜园智能串口通信协议 - Open](http://wifi-open.docs.t2.5itianyuan.com/HUADI_PLT002_WR02/_book/index.html)
+> 开源WiFi-MCU方案通信协议 - [甜园智能串口通信协议 - Open](http://wifi-open.docs.5itianyuan.com/HUADI_PLT002_WR02/_book/index.html)
 
 > [开发板TY-S1](#开发板ty-s1)
 
